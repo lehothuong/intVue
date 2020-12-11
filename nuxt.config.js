@@ -3,6 +3,7 @@ module.exports = {
   ** Headers of the page
   */
  mode:'spa',
+ target: 'static',
   head: {
     title: 'init-vue',
     meta: [
