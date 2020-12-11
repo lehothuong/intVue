@@ -18,7 +18,7 @@ module.exports = {
   /*
   ** Customize the progress bar color
   */
- router: { base: '/my-project/' },
+ router: { base: '/initVue/' },
   loading: { color: '#3B8070' },
   /*
   ** Build configuration
